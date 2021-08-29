@@ -1,0 +1,1125 @@
+﻿#EXTM3U
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Color_Cineplex_HD.png" group-title="SONU IPTV Movies",Colors Cineplex HD 
+http://140.238.229.42:3500/getm3u8/1477/Color_Cineplex_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_National.png" group-title="SONU IPTV Entertainment",DD National 
+http://140.238.229.42:3500/getm3u8/202/DD_National/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_HD.png" group-title="SONU IPTV Entertainment",Sony HD 
+http://140.238.229.42:3500/getm3u8/291/Sony_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_SAB_HD.png" group-title="SONU IPTV Entertainment",Sony SAB HD 
+http://140.238.229.42:3500/getm3u8/471/Sony_SAB_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_SAB.png" group-title="SONU IPTV Entertainment",Sony SAB 
+http://140.238.229.42:3500/getm3u8/154/Sony_SAB/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/And_TV_HD.png" group-title="SONU IPTV Entertainment",And TV HD 
+http://140.238.229.42:3500/getm3u8/472/And_TV_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_TV_HD.png" group-title="SONU IPTV Entertainment",Zee TV HD 
+http://140.238.229.42:3500/getm3u8/167/Zee_TV_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_HD.png" group-title="SONU IPTV Entertainment",Colors HD 
+http://140.238.229.42:3500/getm3u8/144/Colors_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Anmol.png" group-title="SONU IPTV Entertainment",Zee Anmol 
+http://140.238.229.42:3500/getm3u8/473/Zee_Anmol/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Rishtey.png" group-title="SONU IPTV Entertainment",Rishtey 
+http://140.238.229.42:3500/getm3u8/279/Rishtey/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Pal.png" group-title="SONU IPTV Entertainment",Sony Pal 
+http://140.238.229.42:3500/getm3u8/474/Sony_Pal/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ID.PNG" group-title="SONU IPTV Entertainment",Investigation Discovery 
+http://140.238.229.42:3500/getm3u8/527/ID/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Arre.png" group-title="SONU IPTV Entertainment",Arre HD 
+http://140.238.229.42:3500/getm3u8/963/Arre/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dangal.png" group-title="SONU IPTV Entertainment",Dangal 
+http://140.238.229.42:3500/getm3u8/701/Dangal/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Kisan.png" group-title="SONU IPTV Infotainment",DD Kisan 
+http://140.238.229.42:3500/getm3u8/583/DD_Kisan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Infinity_HD.png" group-title="SONU IPTV Entertainment",Colors Infinity HD 
+http://140.238.229.42:3500/getm3u8/1158/Colors_Infinity_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Comedy_Central_HD.png" group-title="SONU IPTV Entertainment",Comedy Central HD 
+http://140.238.229.42:3500/getm3u8/1157/Comedy_Central_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_SONU IPTV Sports.png" group-title="SONU IPTV Sports",Jio SONU IPTV Sports HD 
+http://140.238.229.42:3500/getm3u8/889/Jio_SONU IPTV Sports/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_Science.png" group-title="SONU IPTV Educational",India Science 
+http://140.238.229.42:3500/getm3u8/1433/India_Science/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football.png" group-title="SONU IPTV Sports",Jio Football HD 
+http://140.238.229.42:3500/getm3u8/1156/Jio_Football/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Cricket.png" group-title="SONU IPTV Sports",Jio Cricket English HD 
+http://140.238.229.42:3500/getm3u8/430/Jio_Cricket/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Gyan_Brikshya.png" group-title="SONU IPTV Educational",Gyan Brikshya 
+http://140.238.229.42:3500/getm3u8/1428/Gyan_Brikshya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Max_HD.png" group-title="SONU IPTV Movies",Sony Max HD 
+http://140.238.229.42:3500/getm3u8/476/Sony_Max_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Cinema_HD.png" group-title="SONU IPTV Movies",Zee Cinema HD 
+http://140.238.229.42:3500/getm3u8/165/Zee_Cinema_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Cinema.png" group-title="SONU IPTV Movies",Zee Cinema 
+http://140.238.229.42:3500/getm3u8/484/Zee_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_1.png" group-title="SONU IPTV Sports",Jio Football 1 HD 
+http://140.238.229.42:3500/getm3u8/1165/Jio_Football_1/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_2.png" group-title="SONU IPTV Sports",Jio Football 2 HD 
+http://140.238.229.42:3500/getm3u8/1167/Jio_Football_2/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_3.png" group-title="SONU IPTV Sports",Jio Football 3 HD 
+http://140.238.229.42:3500/getm3u8/1168/Jio_Football_3/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_4.png" group-title="SONU IPTV Sports",Jio Football 4 HD 
+http://140.238.229.42:3500/getm3u8/1169/Jio_Football_4/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Classic.png" group-title="SONU IPTV Movies",Zee Bollywood 
+http://140.238.229.42:3500/getm3u8/487/Zee_Classic/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/And_Pictures_HD.png" group-title="SONU IPTV Movies",And Pictures HD 
+http://140.238.229.42:3500/getm3u8/185/And_Pictures_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Action.png" group-title="SONU IPTV Movies",Zee Action 
+http://140.238.229.42:3500/getm3u8/488/Zee_Action/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/B4U_SONU IPTV Movies.png" group-title="SONU IPTV Movies",B4U SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/182/B4U_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_MAX2.png" group-title="SONU IPTV Movies",Sony MAX2 
+http://140.238.229.42:3500/getm3u8/483/Sony_MAX2/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Enterr_10.png" group-title="SONU IPTV Movies",Enterr 10 
+http://140.238.229.42:3500/getm3u8/485/Enterr_10/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Cineplex.png" group-title="SONU IPTV Movies",Colors Cineplex 
+http://140.238.229.42:3500/getm3u8/482/Colors_Cineplex/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Anmol_Cinema.png" group-title="SONU IPTV Movies",Zee Anmol Cinema 
+http://140.238.229.42:3500/getm3u8/415/Zee_Anmol_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Box_Cinema.png" group-title="SONU IPTV Movies",Box Cinema 
+http://140.238.229.42:3500/getm3u8/1276/Box_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Maha_SONU IPTV Movies.png" group-title="SONU IPTV Movies",Maha SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/809/Maha_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Pix_HD.png" group-title="SONU IPTV Movies",Sony Pix HD 
+http://140.238.229.42:3500/getm3u8/762/Sony_Pix_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Hi_Dost.png" group-title="SONU IPTV Entertainment",Hi Dost! 
+http://140.238.229.42:3500/getm3u8/1232/Hi_Dost/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Channel_One_SONU IPTV News.png" group-title="SONU IPTV News",Channel One SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/920/Channel_One_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/K_SONU IPTV News_India.png" group-title="SONU IPTV News",K SONU IPTV News India 
+http://140.238.229.42:3500/getm3u8/783/K_SONU IPTV News_India/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DNN.png" group-title="SONU IPTV News",DNN 
+http://140.238.229.42:3500/getm3u8/958/DNN/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_SONU IPTV Sports.png" group-title="SONU IPTV Sports",DD SONU IPTV Sports 
+http://140.238.229.42:3500/getm3u8/204/DD_SONU IPTV Sports/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_HD.png" group-title="SONU IPTV Sports",Ten 1 HD 
+http://140.238.229.42:3500/getm3u8/162/Ten_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_1.png" group-title="SONU IPTV Sports",Ten 1 
+http://140.238.229.42:3500/getm3u8/514/Ten_1/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten2_HD.png" group-title="SONU IPTV Sports",Ten 2 HD 
+http://140.238.229.42:3500/getm3u8/891/Ten2_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_2.png" group-title="SONU IPTV Sports",Ten 2 
+http://140.238.229.42:3500/getm3u8/523/Ten_2/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten3_HD.png" group-title="SONU IPTV Sports",Ten 3 HD 
+http://140.238.229.42:3500/getm3u8/892/Ten3_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_3.png" group-title="SONU IPTV Sports",Ten 3 
+http://140.238.229.42:3500/getm3u8/524/Ten_3/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Six_HD.png" group-title="SONU IPTV Sports",Sony Six HD 
+http://140.238.229.42:3500/getm3u8/155/Six_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Six_SD.png" group-title="SONU IPTV Sports",Sony Six SD 
+http://140.238.229.42:3500/getm3u8/525/Sony_Six_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DSONU IPTV Sports.png" group-title="SONU IPTV Sports",Eurosport 
+http://140.238.229.42:3500/getm3u8/1294/DSONU IPTV Sports/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DSONU IPTV Sports_HD.png" group-title="SONU IPTV Sports",Eurosport HD 
+http://140.238.229.42:3500/getm3u8/875/DSONU IPTV Sports_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manjari_TV.png" group-title="SONU IPTV Entertainment",Manjari TV 
+http://140.238.229.42:3500/getm3u8/1299/Manjari_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/HHDL.png" group-title="SONU IPTV Devotional",HHDL 
+http://140.238.229.42:3500/getm3u8/1315/HHDL/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Top_Tutor.png" group-title="SONU IPTV Educational",Top Tutor 
+http://140.238.229.42:3500/getm3u8/1337/Top_Tutor/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/RT_TV.png" group-title="SONU IPTV News",RT TV 
+http://140.238.229.42:3500/getm3u8/1338/RT_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Reporter_TV.png" group-title="SONU IPTV News",Reporter TV 
+http://140.238.229.42:3500/getm3u8/1408/Reporter_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_SONU IPTV Kids.png" group-title="SONU IPTV Kids",Jio SONU IPTV Kids 
+http://140.238.229.42:3500/getm3u8/1430/Jio_SONU IPTV Kids/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Utkarsh_Primary.png" group-title="SONU IPTV Educational",Utkarsh Primary 
+http://140.238.229.42:3500/getm3u8/1434/Utkarsh_Primary/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Utkarsh_Middle.png" group-title="SONU IPTV Educational",Utkarsh HSBTE 
+http://140.238.229.42:3500/getm3u8/1435/Utkarsh_Middle/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Utkarsh_Secondary.png" group-title="SONU IPTV Educational",Utkarsh Secondary 
+http://140.238.229.42:3500/getm3u8/1436/Utkarsh_Secondary/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Utkarsh_Higher.png" group-title="SONU IPTV Educational",Utkarsh Higher 
+http://140.238.229.42:3500/getm3u8/1437/Utkarsh_Higher/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shiksha_TV.png" group-title="SONU IPTV Devotional",Shiksha TV 
+http://140.238.229.42:3500/getm3u8/1454/Shiksha_TV/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Janapriyam_SONU IPTV News.png" group-title="SONU IPTV Infotainment",Janapriyam 
+http://140.238.229.42:3500/getm3u8/1455/Janapriyam_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Moti_Doongri.png" group-title="SONU IPTV Jiodarshan",Shree Ganesh - Moti Doongri Jaipur 
+http://140.238.229.42:3500/getm3u8/1463/Moti_Doongri/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Daijiworld_TV_24X7.png" group-title="SONU IPTV Infotainment",Daijiworld TV 24x7 
+http://140.238.229.42:3500/getm3u8/1464/Daijiworld_TV_24X7/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_J.png" group-title="SONU IPTV News",SONU IPTV News J 
+http://140.238.229.42:3500/getm3u8/1515/SONU IPTV News_J/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_SONU IPTV News.png" group-title="SONU IPTV News",DD SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/203/DD_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_SONU IPTV News_India.png" group-title="SONU IPTV News",ABP SONU IPTV News India 
+http://140.238.229.42:3500/getm3u8/177/ABP_SONU IPTV News_India/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NDTV_India.png" group-title="SONU IPTV News",NDTV India 
+http://140.238.229.42:3500/getm3u8/258/NDTV_India/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aaj_Tak.png" group-title="SONU IPTV News",Aaj Tak 
+http://140.238.229.42:3500/getm3u8/173/Aaj_Tak/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_SONU IPTV News.png" group-title="SONU IPTV News",Zee SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/504/Zee_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_TV.png" group-title="SONU IPTV News",India TV 
+http://140.238.229.42:3500/getm3u8/235/India_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_24.png" group-title="SONU IPTV News",SONU IPTV News 24 
+http://140.238.229.42:3500/getm3u8/501/SONU IPTV News_24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/IBN_7.png" group-title="SONU IPTV News",SONU IPTV News 18 India 
+http://140.238.229.42:3500/getm3u8/231/IBN_7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_SANGAM.png" group-title="SONU IPTV News",Zee Hindustan 
+http://140.238.229.42:3500/getm3u8/652/Zee_SANGAM/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_SONU IPTV News.png" group-title="SONU IPTV News",India SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/498/India_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_Ganga.png" group-title="SONU IPTV News",ABP Ganga 
+http://140.238.229.42:3500/getm3u8/1205/ABP_Ganga/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_Nation.png" group-title="SONU IPTV News",SONU IPTV News Nation 
+http://140.238.229.42:3500/getm3u8/499/SONU IPTV News_Nation/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Euro_SONU IPTV News.png" group-title="SONU IPTV News",Euro SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/837/Euro_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Total_TV.png" group-title="SONU IPTV News",Total TV 
+http://140.238.229.42:3500/getm3u8/855/Total_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Live_Today.png" group-title="SONU IPTV News",Live Today 
+http://140.238.229.42:3500/getm3u8/771/Live_Today/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sahara_Samay_Rastriya.png" group-title="SONU IPTV News",Sahara Samay Rastriya 
+http://140.238.229.42:3500/getm3u8/506/Sahara_Samay_Rastriya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_SONU IPTV News_Haryana.png" group-title="SONU IPTV News",India SONU IPTV News Haryana 
+http://140.238.229.42:3500/getm3u8/516/India_SONU IPTV News_Haryana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Taaza_TV.png" group-title="SONU IPTV News",Taaza TV 
+http://140.238.229.42:3500/getm3u8/791/Taaza_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Living_India_SONU IPTV News.png" group-title="SONU IPTV News",Living India SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/831/Living_India_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sudarshan.png" group-title="SONU IPTV News",Sudarshan 
+http://140.238.229.42:3500/getm3u8/518/Sudarshan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kashish_SONU IPTV News.png" group-title="SONU IPTV News",Kashish SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/770/Kashish_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SMBC_TV.png" group-title="SONU IPTV News",SMBC TV 
+http://140.238.229.42:3500/getm3u8/851/SMBC_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SAHARA_SAMAY_MP.png" group-title="SONU IPTV News",SAHARA SAMAY MP 
+http://140.238.229.42:3500/getm3u8/507/SAHARA_SAMAY_MP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SAHARA_SAMAY_UP.png" group-title="SONU IPTV News",SAHARA SAMAY UP 
+http://140.238.229.42:3500/getm3u8/508/SAHARA_SAMAY_UP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sadhna_SONU IPTV News_Plus.png" group-title="SONU IPTV News",Sadhna SONU IPTV News Plus 
+http://140.238.229.42:3500/getm3u8/519/Sadhna_SONU IPTV News_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sahara_Samay_Bihar.png" group-title="SONU IPTV News",Sahara Samay Bihar 
+http://140.238.229.42:3500/getm3u8/509/Sahara_Samay_Bihar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Samay_Rajasthan.png" group-title="SONU IPTV News",Samay Rajasthan 
+http://140.238.229.42:3500/getm3u8/793/Samay_Rajasthan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/JK_24x7_SONU IPTV News.png" group-title="SONU IPTV News",JK 24x7 SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/789/JK_24x7_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Pratidin_SONU IPTV News.png" group-title="SONU IPTV News",Pratidin Time 
+http://140.238.229.42:3500/getm3u8/647/Pratidin_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mh_One_SONU IPTV News.png" group-title="SONU IPTV News",Mh One SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/511/Mh_One_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_SONU IPTV News_UP.png" group-title="SONU IPTV News",India SONU IPTV News UP 
+http://140.238.229.42:3500/getm3u8/512/India_SONU IPTV News_UP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_State_UK_UP.png" group-title="SONU IPTV News",SONU IPTV News State UK UP 
+http://140.238.229.42:3500/getm3u8/792/SONU IPTV News_State_UK_UP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_SONU IPTV News_MP.png" group-title="SONU IPTV News",India SONU IPTV News MP 
+http://140.238.229.42:3500/getm3u8/515/India_SONU IPTV News_MP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_SONU IPTV News_Rajasthan.png" group-title="SONU IPTV News",India SONU IPTV News Rajasthan 
+http://140.238.229.42:3500/getm3u8/513/India_SONU IPTV News_Rajasthan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Swadesh_SONU IPTV News.png" group-title="SONU IPTV News",Swadesh SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1185/Swadesh_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Janta_TV.png" group-title="SONU IPTV News",Janta TV 
+http://140.238.229.42:3500/getm3u8/880/Janta_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Living_Foodz.png" group-title="SONU IPTV News",Zee UP UK 
+http://140.238.229.42:3500/getm3u8/572/Living_Foodz/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Lokshahi_SONU IPTV News.png" group-title="SONU IPTV News",Lokshahi SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1293/Lokshahi_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_Voice.png" group-title="SONU IPTV News",India Voice 
+http://140.238.229.42:3500/getm3u8/788/India_Voice/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/evidya_12.png" group-title="SONU IPTV Educational",PM e Vidya 12 
+http://140.238.229.42:3500/getm3u8/1532/evidya_12/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Hindi_Khabar.png" group-title="SONU IPTV News",Hindi Khabar 
+http://140.238.229.42:3500/getm3u8/808/Hindi_Khabar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jan_TV.png" group-title="SONU IPTV News",Jan TV 
+http://140.238.229.42:3500/getm3u8/768/Jan_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_India_24_X_7.png" group-title="SONU IPTV News",SONU IPTV News India 24x7 
+http://140.238.229.42:3500/getm3u8/850/SONU IPTV News_India_24_X_7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Tez.png" group-title="SONU IPTV News",Tez 
+http://140.238.229.42:3500/getm3u8/502/Tez/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_SONU IPTV Business.png" group-title="SONU IPTV Business",Zee SONU IPTV Business 
+http://140.238.229.42:3500/getm3u8/657/Zee_SONU IPTV Business/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNBC_Awaaz.png" group-title="SONU IPTV Business",CNBC Awaaz 
+http://140.238.229.42:3500/getm3u8/190/CNBC_Awaaz/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Loksabha_TV.png" group-title="SONU IPTV News",Loksabha TV 
+http://140.238.229.42:3500/getm3u8/522/Loksabha_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Rajyasabha.png" group-title="SONU IPTV News",DD Rajyasabha 
+http://140.238.229.42:3500/getm3u8/520/DD_Rajyasabha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NDTV_24x7.png" group-title="SONU IPTV News",NDTV 24x7 
+http://140.238.229.42:3500/getm3u8/255/NDTV_24x7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_Today.png" group-title="SONU IPTV News",India Today 
+http://140.238.229.42:3500/getm3u8/493/India_Today/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNN_SONU IPTV News_18.png" group-title="SONU IPTV News",CNN SONU IPTV News 18 
+http://140.238.229.42:3500/getm3u8/492/CNN_SONU IPTV News_18/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_X.png" group-title="SONU IPTV News",SONU IPTV News X 
+http://140.238.229.42:3500/getm3u8/495/SONU IPTV News_X/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Wion.png" group-title="SONU IPTV News",Wion 
+http://140.238.229.42:3500/getm3u8/412/Wion/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Republic_TV.png" group-title="SONU IPTV News",Republic TV 
+http://140.238.229.42:3500/getm3u8/858/Republic_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_India.png" group-title="SONU IPTV Entertainment",DD India 
+http://140.238.229.42:3500/getm3u8/528/DD_India/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NDTV_Profit.png" group-title="SONU IPTV Business",NDTV Profit 
+http://140.238.229.42:3500/getm3u8/259/NDTV_Profit/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNBC_Tv18_Prime_HD.png" group-title="SONU IPTV Business",CNBC Tv18 Prime HD 
+http://140.238.229.42:3500/getm3u8/143/CNBC_Tv18_Prime_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNBC_Tv_18.png" group-title="SONU IPTV Business",CNBC Tv 18 
+http://140.238.229.42:3500/getm3u8/489/CNBC_Tv_18/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNN.png" group-title="SONU IPTV News",CNN 
+http://140.238.229.42:3500/getm3u8/193/CNN/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/BBC_World_SONU IPTV News.png" group-title="SONU IPTV News",BBC World SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/142/BBC_World_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/sonic_Hindi.png" group-title="SONU IPTV Kids",Sonic Hindi 
+http://140.238.229.42:3500/getm3u8/815/sonic_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/AL_Jazeera.png" group-title="SONU IPTV News",AL Jazeera 
+http://140.238.229.42:3500/getm3u8/494/AL_Jazeera/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Channel_SONU IPTV News_Asia_International.png" group-title="SONU IPTV News",Channel SONU IPTV News Asia International 
+http://140.238.229.42:3500/getm3u8/764/Channel_SONU IPTV News_Asia_International/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/France_24.png" group-title="SONU IPTV News",France 24 
+http://140.238.229.42:3500/getm3u8/838/France_24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV_5_Monde.png" group-title="SONU IPTV News",TV5 Monde 
+http://140.238.229.42:3500/getm3u8/885/TV_5_Monde/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/dw.png" group-title="SONU IPTV News",dw 
+http://140.238.229.42:3500/getm3u8/496/dw/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_SONU IPTV Kids_2.png" group-title="SONU IPTV Kids",Discovery SONU IPTV Kids 2 
+http://140.238.229.42:3500/getm3u8/554/Discovery_SONU IPTV Kids_2/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Kannada.png" group-title="SONU IPTV Kids",Sonic Kannada 
+http://140.238.229.42:3500/getm3u8/1243/Sonic_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Telugu.png" group-title="SONU IPTV Kids",Sonic Telugu 
+http://140.238.229.42:3500/getm3u8/1242/Sonic_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Malayalam.png" group-title="SONU IPTV Kids",Nick Malayalam 
+http://140.238.229.42:3500/getm3u8/1340/Nick_Malayalam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Bangla.png" group-title="SONU IPTV Kids",Nick Bangla 
+http://140.238.229.42:3500/getm3u8/1341/Nick_Bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Marathi.png" group-title="SONU IPTV Kids",Nick Marathi 
+http://140.238.229.42:3500/getm3u8/1342/Nick_Marathi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Gujarati.png" group-title="SONU IPTV Kids",Nick Gujarati 
+http://140.238.229.42:3500/getm3u8/1343/Nick_Gujarati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CN_HD_Tamil.png" group-title="SONU IPTV Kids",CN HD+ Tamil 
+http://140.238.229.42:3500/getm3u8/1081/CN_HD_Tamil/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Cartoon_Network_Tamil.png" group-title="SONU IPTV Kids",Cartoon Network Tamil 
+http://140.238.229.42:3500/getm3u8/817/Cartoon_Network_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Pogo_Tamil.png" group-title="SONU IPTV Kids",Pogo Tamil 
+http://140.238.229.42:3500/getm3u8/542/Pogo_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Tamil.png" group-title="SONU IPTV Kids",Nick Tamil 
+http://140.238.229.42:3500/getm3u8/546/Nick_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/sonic_Tamil.png" group-title="SONU IPTV Kids",sonic Tamil 
+http://140.238.229.42:3500/getm3u8/290/sonic_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Yay_Tamil.png" group-title="SONU IPTV Kids",Sony Yay Tamil 
+http://140.238.229.42:3500/getm3u8/873/Sony_Yay_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_SONU IPTV Kids_Tamil.png" group-title="SONU IPTV Kids",Discovery SONU IPTV Kids Tamil 
+http://140.238.229.42:3500/getm3u8/550/Discovery_SONU IPTV Kids_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Kannada.png" group-title="SONU IPTV Kids",Nick Kannada 
+http://140.238.229.42:3500/getm3u8/1244/Nick_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CN_HD_Telugu.png" group-title="SONU IPTV Kids",CN HD+ Telugu 
+http://140.238.229.42:3500/getm3u8/1080/CN_HD_Telugu/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Cartoon_Network_Telugu.png" group-title="SONU IPTV Kids",Cartoon Network Telugu 
+http://140.238.229.42:3500/getm3u8/166/Cartoon_Network_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Telugu.png" group-title="SONU IPTV Kids",Nick Telugu 
+http://140.238.229.42:3500/getm3u8/543/Nick_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Hindi.png" group-title="SONU IPTV Kids",Nick Hindi 
+http://140.238.229.42:3500/getm3u8/545/Nick_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Yay_Telugu.png" group-title="SONU IPTV Kids",Sony Yay Telugu 
+http://140.238.229.42:3500/getm3u8/874/Sony_Yay_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CN_HD_English.png" group-title="SONU IPTV Kids",CN HD+ English 
+http://140.238.229.42:3500/getm3u8/1079/CN_HD_English/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Cartoon_Network_Hindi.png" group-title="SONU IPTV Kids",Cartoon Network Hindi 
+http://140.238.229.42:3500/getm3u8/816/Cartoon_Network_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_HD_Plus.png" group-title="SONU IPTV Kids",Nick HD+ 
+http://140.238.229.42:3500/getm3u8/1226/Nick_HD_Plus/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Pogo_Hindi.png" group-title="SONU IPTV Kids",Pogo Hindi 
+http://140.238.229.42:3500/getm3u8/559/Pogo_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nickelodeon.png" group-title="SONU IPTV Kids",Nickelodeon 
+http://140.238.229.42:3500/getm3u8/547/Nickelodeon/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Malayalam.png" group-title="SONU IPTV Kids",Sonic Malayalam 
+http://140.238.229.42:3500/getm3u8/1344/Sonic_Malayalam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Bangla.png" group-title="SONU IPTV Kids",Sonic Bangla 
+http://140.238.229.42:3500/getm3u8/1345/Sonic_Bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Marathi.png" group-title="SONU IPTV Kids",Sonic Marathi 
+http://140.238.229.42:3500/getm3u8/1346/Sonic_Marathi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sonic_Gujarati.png" group-title="SONU IPTV Kids",Sonic Gujarati 
+http://140.238.229.42:3500/getm3u8/1347/Sonic_Gujarati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nick_Junior.png" group-title="SONU IPTV Kids",Nick Junior 
+http://140.238.229.42:3500/getm3u8/544/Nick_Junior/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nickelodeon_Jr.png" group-title="SONU IPTV Kids",Nickelodeon Jr. 
+http://140.238.229.42:3500/getm3u8/548/Nickelodeon_Jr/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Yay_Hindi.png" group-title="SONU IPTV Kids",Sony Yay Hindi 
+http://140.238.229.42:3500/getm3u8/872/Sony_Yay_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_HD_World.png" group-title="SONU IPTV Infotainment",Discovery HD World 
+http://140.238.229.42:3500/getm3u8/463/Discovery_HD_World/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery.png" group-title="SONU IPTV Infotainment",Discovery 
+http://140.238.229.42:3500/getm3u8/242/Discovery/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Channel_Tamil.png" group-title="SONU IPTV Infotainment",D Tamil 
+http://140.238.229.42:3500/getm3u8/569/Discovery_Channel_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Animal_Planet_HD.png" group-title="SONU IPTV Infotainment",Animal Planet HD World 
+http://140.238.229.42:3500/getm3u8/286/Animal_Planet_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Animal_Planet_English.png" group-title="SONU IPTV Infotainment",Animal Planet English 
+http://140.238.229.42:3500/getm3u8/567/Animal_Planet_English/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Science.png" group-title="SONU IPTV Infotainment",Discovery Science 
+http://140.238.229.42:3500/getm3u8/568/Discovery_Science/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/History_HD.png" group-title="SONU IPTV Infotainment",History TV18 HD 
+http://140.238.229.42:3500/getm3u8/146/History_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/History_18_Hindi.png" group-title="SONU IPTV Infotainment",History TV18 HD Hindi 
+http://140.238.229.42:3500/getm3u8/578/History_18_Hindi/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_BBC_Earth_HD.png" group-title="SONU IPTV Infotainment",Sony BBC Earth HD 
+http://140.238.229.42:3500/getm3u8/821/Sony_BBC_Earth_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Epic_HD.png" group-title="SONU IPTV Entertainment",Epic 
+http://140.238.229.42:3500/getm3u8/481/Epic_HD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TLC_HD_World.png" group-title="SONU IPTV Lifestyle",TLC HD 
+http://140.238.229.42:3500/getm3u8/479/TLC_HD_World/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TLC_English.png" group-title="SONU IPTV Lifestyle",TLC English 
+http://140.238.229.42:3500/getm3u8/574/TLC_English/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TLC_Hindi.png" group-title="SONU IPTV Lifestyle",TLC Hindi 
+http://140.238.229.42:3500/getm3u8/571/TLC_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NDTV_Good_Times.png" group-title="SONU IPTV Lifestyle",GOOD TiMES 
+http://140.238.229.42:3500/getm3u8/560/NDTV_Good_Times/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sadhguru_Television.png" group-title="SONU IPTV Devotional",Sadhguru Television HD 
+http://140.238.229.42:3500/getm3u8/1201/Sadhguru_Television/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Turbo.png" group-title="SONU IPTV Infotainment",Discovery Turbo 
+http://140.238.229.42:3500/getm3u8/541/Discovery_Turbo/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Travel_XP_HD.png" group-title="SONU IPTV Lifestyle",Travel XP HD 
+http://140.238.229.42:3500/getm3u8/164/Travel_XP_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV_Teacher.png" group-title="SONU IPTV Educational",TV Teacher 
+http://140.238.229.42:3500/getm3u8/1447/TV_Teacher/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Travel_XP.png" group-title="SONU IPTV Lifestyle",Travel XP HD Hindi 
+http://140.238.229.42:3500/getm3u8/562/Travel_XP/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Food_Food.png" group-title="SONU IPTV Lifestyle",Food Food 
+http://140.238.229.42:3500/getm3u8/561/Food_Food/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Care_World.png" group-title="SONU IPTV Infotainment",Care World 
+http://140.238.229.42:3500/getm3u8/582/Care_World/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Animal_Planet_HD_Tamil.png" group-title="SONU IPTV Infotainment",Animal Planet HD Tamil 
+http://140.238.229.42:3500/getm3u8/1219/Animal_Planet_HD_Tamil/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Parmarth_TV.png" group-title="SONU IPTV Devotional",Parmarth TV 
+http://140.238.229.42:3500/getm3u8/1449/Parmarth_TV/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Events.png" group-title="SONU IPTV Infotainment",Jio Events HD 
+http://140.238.229.42:3500/getm3u8/871/Jio_Events/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Exclusive.png" group-title="SONU IPTV Entertainment",Jio Exclusive HD 
+http://140.238.229.42:3500/getm3u8/866/Jio_Exclusive/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MTV_HD_Plus.png" group-title="SONU IPTV Music",MTV HD Plus 
+http://140.238.229.42:3500/getm3u8/1145/MTV_HD_Plus/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MTV.png" group-title="SONU IPTV Music",MTV 
+http://140.238.229.42:3500/getm3u8/248/MTV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/9XM.png" group-title="SONU IPTV Music",9XM 
+http://140.238.229.42:3500/getm3u8/587/9XM/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/E_24.png" group-title="SONU IPTV Music",E 24 
+http://140.238.229.42:3500/getm3u8/591/E_24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_BBC_Earth_HD_English.png" group-title="SONU IPTV Infotainment",Sony BBC Earth HD English 
+http://140.238.229.42:3500/getm3u8/852/Sony_BBC_Earth_HD_English/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MTV_Beats_HD.png" group-title="SONU IPTV Music",MTV Beats HD 
+http://140.238.229.42:3500/getm3u8/753/MTV_Beats_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Insight.png" group-title="SONU IPTV Infotainment",Insight HD 
+http://140.238.229.42:3500/getm3u8/888/Insight/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/B4U_SONU IPTV Music.png" group-title="SONU IPTV Music",B4U SONU IPTV Music 
+http://140.238.229.42:3500/getm3u8/183/B4U_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mastiii.png" group-title="SONU IPTV Music",Mastiii 
+http://140.238.229.42:3500/getm3u8/584/Mastiii/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zing.png" group-title="SONU IPTV Music",Zing 
+http://140.238.229.42:3500/getm3u8/585/Zing/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV Music_India.png" group-title="SONU IPTV Music",SONU IPTV Music India 
+http://140.238.229.42:3500/getm3u8/250/SONU IPTV Music_India/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/9X_Jalwa.png" group-title="SONU IPTV Music",9X Jalwa 
+http://140.238.229.42:3500/getm3u8/440/9X_Jalwa/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Animal_Planet_Hindi.png" group-title="SONU IPTV Infotainment",Animal Planet Hindi 
+http://140.238.229.42:3500/getm3u8/566/Animal_Planet_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Channel_Hindi.png" group-title="SONU IPTV Infotainment",Discovery Channel Hindi 
+http://140.238.229.42:3500/getm3u8/575/Discovery_Channel_Hindi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Bflix_SONU IPTV Movies.png" group-title="SONU IPTV Movies",Bflix SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/1266/Bflix_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manoranjan_TV.png" group-title="SONU IPTV Movies",Manoranjan TV 
+http://140.238.229.42:3500/getm3u8/1280/Manoranjan_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/B4U_Kadak.png" group-title="SONU IPTV Movies",B4U Kadak 
+http://140.238.229.42:3500/getm3u8/1295/B4U_Kadak/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/B4U_Bhojpuri.png" group-title="SONU IPTV Movies",B4U Bhojpuri 
+http://140.238.229.42:3500/getm3u8/1296/B4U_Bhojpuri/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MI_TV.png" group-title="SONU IPTV Sports",MI TV 
+http://140.238.229.42:3500/getm3u8/1529/MI_TV/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_Pariwar.png" group-title="SONU IPTV Entertainment",Raj Pariwar 
+http://140.238.229.42:3500/getm3u8/533/Raj_Pariwar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Insync.png" group-title="SONU IPTV Music",Insync 
+http://140.238.229.42:3500/getm3u8/1286/Insync/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/iLove.png" group-title="SONU IPTV Music",iLove 
+http://140.238.229.42:3500/getm3u8/1267/iLove/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ANB_SONU IPTV News.png" group-title="SONU IPTV News",ANB SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1287/ANB_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Prarthana_Bhawan.png" group-title="SONU IPTV Devotional",Prarthana Bhawan 
+http://140.238.229.42:3500/getm3u8/1278/Prarthana_Bhawan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shubhsandesh_TV.png" group-title="SONU IPTV Devotional",Shubhsandesh TV 
+http://140.238.229.42:3500/getm3u8/608/Shubhsandesh_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Darshan_24.png" group-title="SONU IPTV Devotional",Darshan 24 
+http://140.238.229.42:3500/getm3u8/611/Darshan_24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Divya_TV.png" group-title="SONU IPTV Devotional",Divya TV 
+http://140.238.229.42:3500/getm3u8/801/Divya_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_SD.png" group-title="SONU IPTV Entertainment",Colors SD 
+http://140.238.229.42:3500/getm3u8/1368/Colors_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MTV_Beats_SD.png" group-title="SONU IPTV Music",MTV Beats SD 
+http://140.238.229.42:3500/getm3u8/1400/MTV_Beats_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Birla_Brainiacs.png" group-title="SONU IPTV Educational",Birla Brainiacs 
+http://140.238.229.42:3500/getm3u8/1521/Birla_Brainiacs/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Network_10.png" group-title="SONU IPTV News",Network 10 
+http://140.238.229.42:3500/getm3u8/1528/Network_10/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Pix_SD.png" group-title="SONU IPTV Movies",Sony Pix SD 
+http://140.238.229.42:3500/getm3u8/1530/Sony_Pix_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Gyanvani_1.png" group-title="SONU IPTV Educational",Gyanvani 1 
+http://140.238.229.42:3500/getm3u8/1531/Gyanvani_1/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Chardham_Darshan.png" group-title="SONU IPTV Jiodarshan",Chardham Darshan 
+http://140.238.229.42:3500/getm3u8/1533/Chardham_Darshan/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Tute.png" group-title="SONU IPTV Educational",Tute 
+http://140.238.229.42:3500/getm3u8/1542/Tute/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Himshiksha_Elementary.png" group-title="SONU IPTV Educational",Himshiksha Elementary 
+http://140.238.229.42:3500/getm3u8/1562/Himshiksha_Elementary/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Himshiksha_Higher.png" group-title="SONU IPTV Educational",Himshiksha Higher 
+http://140.238.229.42:3500/getm3u8/1563/Himshiksha_Higher/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Himshiksha_Vocational.png" group-title="SONU IPTV Educational",Himshiksha Vocational 
+http://140.238.229.42:3500/getm3u8/1564/Himshiksha_Vocational/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/AP_BIE_ARTS.png" group-title="SONU IPTV Educational",AP-BIE-ARTS 
+http://140.238.229.42:3500/getm3u8/1565/AP_BIE_ARTS/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/AP_BIE_SCIENCE.png" group-title="SONU IPTV Educational",AP-BIE-SCIENCE 
+http://140.238.229.42:3500/getm3u8/1566/AP_BIE_SCIENCE/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/AP_CIE_SIVE.png" group-title="SONU IPTV Educational",AP-CIE-SIVE 
+http://140.238.229.42:3500/getm3u8/1567/AP_CIE_SIVE/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sanskritam.png" group-title="SONU IPTV Educational",Sanskrit 
+http://140.238.229.42:3500/getm3u8/1590/Sanskritam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manav_Dharam.png" group-title="SONU IPTV Devotional",Manav Dharam 
+http://140.238.229.42:3500/getm3u8/1607/Manav_Dharam/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ortho_TV.png" group-title="SONU IPTV Educational",Ortho TV 
+http://140.238.229.42:3500/getm3u8/1611/Ortho_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Medha_Secondary.png" group-title="SONU IPTV Educational",Medha Secondary 
+http://140.238.229.42:3500/getm3u8/1613/Medha_Secondary/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/India_Ahead.png" group-title="SONU IPTV News",India Ahead 
+http://140.238.229.42:3500/getm3u8/1617/India_Ahead/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Madha_TV.png" group-title="SONU IPTV Devotional",Madha TV 
+http://140.238.229.42:3500/getm3u8/1655/Madha_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Samveda.png" group-title="SONU IPTV Educational",Samveda 
+http://140.238.229.42:3500/getm3u8/1674/Samveda/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ESG.png" group-title="SONU IPTV Sports",ESG TV 
+http://140.238.229.42:3500/getm3u8/1675/ESG/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/IND_24.png" group-title="SONU IPTV News",IND 24 
+http://140.238.229.42:3500/getm3u8/1698/IND_24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ND24.png" group-title="SONU IPTV News",ND 24 
+http://140.238.229.42:3500/getm3u8/1733/ND24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV9_Bangla.png" group-title="SONU IPTV News",TV9 Bangla 
+http://140.238.229.42:3500/getm3u8/1735/TV9_Bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Luxe_Tv_HD.png" group-title="SONU IPTV Lifestyle",LUXE TV HD 
+http://140.238.229.42:3500/getm3u8/1736/Luxe_Tv_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mezzo_HD.png" group-title="SONU IPTV Music",Mezzo Live HD 
+http://140.238.229.42:3500/getm3u8/1737/Mezzo_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Gujarati_Cinema.png" group-title="SONU IPTV Movies",Colors Gujarati Cinema 
+http://140.238.229.42:3500/getm3u8/1324/Colors_Gujarati_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Infinity_SD.png" group-title="SONU IPTV Entertainment",Colors Infinity SD 
+http://140.238.229.42:3500/getm3u8/1325/Colors_Infinity_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Marathi_SD.png" group-title="SONU IPTV Entertainment",Colors Marathi SD 
+http://140.238.229.42:3500/getm3u8/1326/Colors_Marathi_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Comedy_Central_SD.png" group-title="SONU IPTV Entertainment",Comedy Central SD 
+http://140.238.229.42:3500/getm3u8/1327/Comedy_Central_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Bangla_SD.png" group-title="SONU IPTV Entertainment",Colors Bangla SD 
+http://140.238.229.42:3500/getm3u8/1369/Colors_Bangla_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Kannada_SD.png" group-title="SONU IPTV Entertainment",Colors Kannada SD 
+http://140.238.229.42:3500/getm3u8/1370/Colors_Kannada_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/VH1.png" group-title="SONU IPTV Music",VH1 
+http://140.238.229.42:3500/getm3u8/1378/VH1/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Wah.png" group-title="SONU IPTV Entertainment",Sony Wah 
+http://140.238.229.42:3500/getm3u8/1393/Sony_Wah/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_SD.png" group-title="SONU IPTV Entertainment",Sony SD 
+http://140.238.229.42:3500/getm3u8/1396/Sony_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SongDew_TV.png" group-title="SONU IPTV Music",SongDew TV 
+http://140.238.229.42:3500/getm3u8/1411/SongDew_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/1SONU IPTV Sports.png" group-title="SONU IPTV Sports",1SONU IPTV Sports 
+http://140.238.229.42:3500/getm3u8/1425/1SONU IPTV Sports/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Santvani.png" group-title="SONU IPTV Devotional",Santvani 
+http://140.238.229.42:3500/getm3u8/1426/Santvani/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nandighosha.png" group-title="SONU IPTV News",Nandighosha 
+http://140.238.229.42:3500/getm3u8/1427/Nandighosha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Velukkudi_Discourses.png" group-title="SONU IPTV Devotional",Velukkudi Discourses 
+http://140.238.229.42:3500/getm3u8/1438/Velukkudi_Discourses/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/M_lead.png" group-title="SONU IPTV Educational",M-LEAD 
+http://140.238.229.42:3500/getm3u8/1446/M_lead/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Rishtey_Cineplex.png" group-title="SONU IPTV Movies",Rishtey Cineplex 
+http://140.238.229.42:3500/getm3u8/1450/Rishtey_Cineplex/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shemaroo_MarathiBana.png" group-title="SONU IPTV Movies",Shemaroo MarathiBana 
+http://140.238.229.42:3500/getm3u8/1452/Shemaroo_MarathiBana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Balle_Balle_TV.png" group-title="SONU IPTV Music",Balle Balle TV 
+http://140.238.229.42:3500/getm3u8/1453/Balle_Balle_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/History_TV18_SD.png" group-title="SONU IPTV Infotainment",History TV18 SD 
+http://140.238.229.42:3500/getm3u8/1471/History_TV18_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Surya_Bhojpuri.png" group-title="SONU IPTV Entertainment",Surya Bhojpuri 
+http://140.238.229.42:3500/getm3u8/1535/Surya_Bhojpuri/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/RadheKrishna_TV.png" group-title="SONU IPTV Devotional",RadheKrishna TV 
+http://140.238.229.42:3500/getm3u8/1537/RadheKrishna_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Subharti.png" group-title="SONU IPTV Devotional",Subharti 
+http://140.238.229.42:3500/getm3u8/1543/Subharti/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shiksha_Darshan.png" group-title="SONU IPTV Educational",Shiksha Darshan 
+http://140.238.229.42:3500/getm3u8/1544/Shiksha_Darshan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Punjab_School_TV.png" group-title="SONU IPTV Educational",Punjab School TV 
+http://140.238.229.42:3500/getm3u8/1545/Punjab_School_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_First.png" group-title="SONU IPTV News",SONU IPTV News First 
+http://140.238.229.42:3500/getm3u8/1555/SONU IPTV News_First/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Lifology.png" group-title="SONU IPTV Educational",Lifology 
+http://140.238.229.42:3500/getm3u8/1593/Lifology/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MY_ZEN_HD.png" group-title="SONU IPTV Lifestyle",MY ZEN HD 
+http://140.238.229.42:3500/getm3u8/1596/MY_ZEN_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/FTV_HD.png" group-title="SONU IPTV Lifestyle",FTV HD 
+http://140.238.229.42:3500/getm3u8/1598/FTV_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/InWild_HD.png" group-title="SONU IPTV Infotainment",InWild HD 
+http://140.238.229.42:3500/getm3u8/1599/InWild_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ZooMoo_HD.png" group-title="SONU IPTV Kids",ZooMoo HD 
+http://140.238.229.42:3500/getm3u8/1601/ZooMoo_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Smithsonian_HD.png" group-title="SONU IPTV Infotainment",Smithsonian HD 
+http://140.238.229.42:3500/getm3u8/1602/Smithsonian_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/HitsIndia_HD.png" group-title="SONU IPTV Entertainment",HITS HD 
+http://140.238.229.42:3500/getm3u8/1603/HitsIndia_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Omnicuris.png" group-title="SONU IPTV Educational",Omnicuris 
+http://140.238.229.42:3500/getm3u8/1614/Omnicuris/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Rongeen_TV.png" group-title="SONU IPTV Kids",Rongeen TV 
+http://140.238.229.42:3500/getm3u8/1667/Rongeen_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Gyanvani_2.png" group-title="SONU IPTV Educational",Gyanvani 2 
+http://140.238.229.42:3500/getm3u8/1672/Gyanvani_2/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/PTD_Chhattisgarrh.png" group-title="SONU IPTV Educational",PTD Chhattisgarrh 
+http://140.238.229.42:3500/getm3u8/1673/PTD_Chhattisgarrh/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Badakhabar.png" group-title="SONU IPTV News",Badakhabar 
+http://140.238.229.42:3500/getm3u8/1692/Badakhabar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Anaadi_TV.png" group-title="SONU IPTV News",Anaadi TV 
+http://140.238.229.42:3500/getm3u8/1728/Anaadi_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Hornbill_TV.png" group-title="SONU IPTV News",Hornbill TV 
+http://140.238.229.42:3500/getm3u8/1743/Hornbill_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NK_TV.png" group-title="SONU IPTV News",NK TV 24x7 
+http://140.238.229.42:3500/getm3u8/1757/NK_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aryan_TV_National.png" group-title="SONU IPTV News",Aryan TV National 
+http://140.238.229.42:3500/getm3u8/1761/Aryan_TV_National/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Cineplex_Bollywood.png" group-title="SONU IPTV Movies",Colors Cineplex Bollywood 
+http://140.238.229.42:3500/getm3u8/1763/Colors_Cineplex_Bollywood/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Naaptol.png" group-title="SONU IPTV Infotainment",Naaptol 
+http://140.238.229.42:3500/getm3u8/1768/Naaptol/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_4_HD_Tamil.png" group-title="SONU IPTV Sports",Ten 4 HD Tamil 
+http://140.238.229.42:3500/getm3u8/1772/Ten_4_HD_Tamil/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_4_HD_Telugu.png" group-title="SONU IPTV Sports",Ten 4 HD Telugu 
+http://140.238.229.42:3500/getm3u8/1773/Ten_4_HD_Telugu/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_4_Tamil.png" group-title="SONU IPTV Sports",Ten 4 Tamil 
+http://140.238.229.42:3500/getm3u8/1774/Ten_4_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_4_Telugu.png" group-title="SONU IPTV Sports",Ten 4 Telugu 
+http://140.238.229.42:3500/getm3u8/1775/Ten_4_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ind_vs_Eng.png" group-title="SONU IPTV Sports",India Tour Of England 24 x 7 
+http://140.238.229.42:3500/getm3u8/1785/Ind_vs_Eng/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shri_Amarnath_Shrine_Board.png" group-title="SONU IPTV Jiodarshan",Shri Amarnathji Shrine Board 
+http://140.238.229.42:3500/getm3u8/1795/Shri_Amarnath_Shrine_Board/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DA_SONU IPTV News_Plus.png" group-title="SONU IPTV News",DA SONU IPTV News Plus 
+http://140.238.229.42:3500/getm3u8/1797/DA_SONU IPTV News_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mango_TV.png" group-title="SONU IPTV Entertainment",Mango TV 
+http://140.238.229.42:3500/getm3u8/1798/Mango_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Studio_Yuva_Alpha.png" group-title="SONU IPTV Entertainment",Studio Yuva Alpha 
+http://140.238.229.42:3500/getm3u8/1799/Studio_Yuva_Alpha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_5.png" group-title="SONU IPTV Sports",Jio Football 5 HD 
+http://140.238.229.42:3500/getm3u8/1813/Jio_Football_5/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_6.png" group-title="SONU IPTV Sports",Jio Football 6 HD 
+http://140.238.229.42:3500/getm3u8/1814/Jio_Football_6/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_24_MPCG.png" group-title="SONU IPTV News",SONU IPTV News 24 MPCG 
+http://140.238.229.42:3500/getm3u8/1817/SONU IPTV News_24_MPCG/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_7.png" group-title="SONU IPTV Sports",Jio Football 7 HD 
+http://140.238.229.42:3500/getm3u8/1823/Jio_Football_7/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jio_Football_8.png" group-title="SONU IPTV Sports",Jio Football 8 HD 
+http://140.238.229.42:3500/getm3u8/1824/Jio_Football_8/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_Sanjha.png" group-title="SONU IPTV News",ABP Sanjha 
+http://140.238.229.42:3500/getm3u8/1291/ABP_Sanjha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/IBN_Lokmat.png" group-title="SONU IPTV News",IBN Lokmat 
+http://140.238.229.42:3500/getm3u8/232/IBN_Lokmat/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aastha.png" group-title="SONU IPTV Devotional",Aastha 
+http://140.238.229.42:3500/getm3u8/175/Aastha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sanskar.png" group-title="SONU IPTV Devotional",Sanskar 
+http://140.238.229.42:3500/getm3u8/288/Sanskar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Disha_tv.png" group-title="SONU IPTV Devotional",Disha tv 
+http://140.238.229.42:3500/getm3u8/599/Disha_tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Paras_tv.png" group-title="SONU IPTV Devotional",Paras tv 
+http://140.238.229.42:3500/getm3u8/602/Paras_tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/mh1_Shraddha.png" group-title="SONU IPTV Devotional",mh1 Shraddha 
+http://140.238.229.42:3500/getm3u8/609/mh1_Shraddha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sadhna.png" group-title="SONU IPTV Devotional",Sadhna 
+http://140.238.229.42:3500/getm3u8/593/Sadhna/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Peace_of_Mind.png" group-title="SONU IPTV Devotional",Peace of Mind 
+http://140.238.229.42:3500/getm3u8/794/Peace_of_Mind/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jinvani_TV.png" group-title="SONU IPTV Devotional",Jinvani TV 
+http://140.238.229.42:3500/getm3u8/596/Jinvani_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Arihant_TV.png" group-title="SONU IPTV Devotional",Arihant TV 
+http://140.238.229.42:3500/getm3u8/466/Arihant_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ishwar_TV.png" group-title="SONU IPTV Devotional",Ishwar TV 
+http://140.238.229.42:3500/getm3u8/601/Ishwar_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Satsang_TV.png" group-title="SONU IPTV Devotional",Satsang TV 
+http://140.238.229.42:3500/getm3u8/597/Satsang_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shubh_TV.png" group-title="SONU IPTV Devotional",Shubh TV 
+http://140.238.229.42:3500/getm3u8/828/Shubh_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aastha_Bhajan.png" group-title="SONU IPTV Devotional",Aastha Bhajan 
+http://140.238.229.42:3500/getm3u8/594/Aastha_Bhajan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Vedic_TV.png" group-title="SONU IPTV Devotional",Vedic TV 
+http://140.238.229.42:3500/getm3u8/856/Vedic_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_UP.png" group-title="SONU IPTV News",SONU IPTV News18 UP 
+http://140.238.229.42:3500/getm3u8/530/ETV_UP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_BIHAR.png" group-title="SONU IPTV News",SONU IPTV News18 BIHAR 
+http://140.238.229.42:3500/getm3u8/693/ETV_BIHAR/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dabangg.png" group-title="SONU IPTV Entertainment",Dabangg 
+http://140.238.229.42:3500/getm3u8/532/Dabangg/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sangeet_Bhojpuri.png" group-title="SONU IPTV Music",Sangeet Bhojpuri 
+http://140.238.229.42:3500/getm3u8/741/Sangeet_Bhojpuri/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Osar_SONU IPTV Movies.png" group-title="SONU IPTV Movies",Oscar SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/883/Osar_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Bhojpuri_Cinema.png" group-title="SONU IPTV Movies",Bhojpuri Cinema 
+http://140.238.229.42:3500/getm3u8/486/Bhojpuri_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dishum_TV.png" group-title="SONU IPTV Entertainment",Dishum TV 
+http://140.238.229.42:3500/getm3u8/1100/Dishum_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_RAJASTHAN.png" group-title="SONU IPTV News",SONU IPTV News18 RAJASTHAN 
+http://140.238.229.42:3500/getm3u8/531/ETV_RAJASTHAN/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Rajasthan.png" group-title="SONU IPTV News",Zee Rajasthan 
+http://140.238.229.42:3500/getm3u8/659/Zee_Rajasthan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/First_India_SONU IPTV News.png" group-title="SONU IPTV News",First India SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/927/First_India_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_MP.png" group-title="SONU IPTV News",SONU IPTV News18 MP 
+http://140.238.229.42:3500/getm3u8/529/ETV_MP/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/IBC-24.png" group-title="SONU IPTV News",IBC24 
+http://140.238.229.42:3500/getm3u8/503/IBC-24/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_SONU IPTV News_MP_Chattisgarh.png" group-title="SONU IPTV News",Zee SONU IPTV News MP Chattisgarh 
+http://140.238.229.42:3500/getm3u8/658/Zee_SONU IPTV News_MP_Chattisgarh/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Bansal_SONU IPTV News.png" group-title="SONU IPTV News",Bansal SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1179/Bansal_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/INH_24x7.png" group-title="SONU IPTV News",INH 24x7 
+http://140.238.229.42:3500/getm3u8/957/INH_24x7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Urdu.png" group-title="SONU IPTV News",SONU IPTV News18 Urdu 
+http://140.238.229.42:3500/getm3u8/694/ETV_Urdu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Salaam.png" group-title="SONU IPTV Entertainment",Zee Salaam 
+http://140.238.229.42:3500/getm3u8/728/Zee_Salaam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Channel_Win.png" group-title="SONU IPTV Devotional",Channel Win 
+http://140.238.229.42:3500/getm3u8/605/Channel_Win/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Gulistan_SONU IPTV News.png" group-title="SONU IPTV News",Gulistan SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/807/Gulistan_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_bharati.png" group-title="SONU IPTV Infotainment",DD bharati 
+http://140.238.229.42:3500/getm3u8/580/DD_bharati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Bihar.png" group-title="SONU IPTV Entertainment",DD Bihar 
+http://140.238.229.42:3500/getm3u8/539/DD_Bihar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Madhya_Pradesh.png" group-title="SONU IPTV Entertainment",DD Madhya Pradesh 
+http://140.238.229.42:3500/getm3u8/536/DD_Madhya_Pradesh/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Rajasthan_Jaipur.png" group-title="SONU IPTV Entertainment",DD Rajasthan (Jaipur) 
+http://140.238.229.42:3500/getm3u8/538/DD_Rajasthan_Jaipur/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Barker.png" group-title="SONU IPTV Infotainment",Jio Promo HD 
+http://140.238.229.42:3500/getm3u8/1247/Barker/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Marathi_HD.png" group-title="SONU IPTV Entertainment",Colors Marathi HD 
+http://140.238.229.42:3500/getm3u8/755/Colors_Marathi_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Marathi.png" group-title="SONU IPTV Entertainment",Zee Marathi 
+http://140.238.229.42:3500/getm3u8/445/Zee_Marathi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_Majha.png" group-title="SONU IPTV News",ABP Majha 
+http://140.238.229.42:3500/getm3u8/612/ABP_Majha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_24_Taas.png" group-title="SONU IPTV News",Zee 24 Taas 
+http://140.238.229.42:3500/getm3u8/442/Zee_24_Taas/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Yuva.png" group-title="SONU IPTV Entertainment",Zee Yuva 
+http://140.238.229.42:3500/getm3u8/414/Zee_Yuva/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Talkies.png" group-title="SONU IPTV Movies",Zee Talkies 
+http://140.238.229.42:3500/getm3u8/153/Zee_Talkies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Marathi_SD.png" group-title="SONU IPTV Entertainment",Sony Marathi SD 
+http://140.238.229.42:3500/getm3u8/1146/Sony_Marathi_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Saam_Tv.png" group-title="SONU IPTV Entertainment",Saam Tv 
+http://140.238.229.42:3500/getm3u8/691/Saam_Tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/9x_Jhakaas.png" group-title="SONU IPTV Music",9x Jhakaas 
+http://140.238.229.42:3500/getm3u8/441/9x_Jhakaas/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Maiboli.png" group-title="SONU IPTV Entertainment",Maiboli 
+http://140.238.229.42:3500/getm3u8/736/Maiboli/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV9_Maharashtra.png" group-title="SONU IPTV News",TV9 Maharashtra 
+http://140.238.229.42:3500/getm3u8/617/TV9_Maharashtra/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sangeet_Marathi.png" group-title="SONU IPTV Music",Sangeet Marathi 
+http://140.238.229.42:3500/getm3u8/735/Sangeet_Marathi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Fakt_Marathi.png" group-title="SONU IPTV Movies",Fakt Marathi 
+http://140.238.229.42:3500/getm3u8/738/Fakt_Marathi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MK_SONU IPTV News.png" group-title="SONU IPTV News",MKN 
+http://140.238.229.42:3500/getm3u8/846/MK_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Amaar_Cinema.png" group-title="SONU IPTV Movies",Amaar Cinema 
+http://140.238.229.42:3500/getm3u8/1101/Amaar_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Channel_Bengali.png" group-title="SONU IPTV Infotainment",Discovery Channel Bengali 
+http://140.238.229.42:3500/getm3u8/573/Discovery_Channel_Bengali/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Sahayadri.png" group-title="SONU IPTV Entertainment",DD Sahayadri 
+http://140.238.229.42:3500/getm3u8/695/DD_Sahayadri/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_Ananda.png" group-title="SONU IPTV News",ABP Ananda 
+http://140.238.229.42:3500/getm3u8/672/ABP_Ananda/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Bengali_HD.png" group-title="SONU IPTV Entertainment",Colors Bengali HD 
+http://140.238.229.42:3500/getm3u8/756/Colors_Bengali_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Bangla.png" group-title="SONU IPTV Entertainment",Zee Bangla 
+http://140.238.229.42:3500/getm3u8/625/Zee_Bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aakaash_bangla.png" group-title="SONU IPTV Entertainment",Aakash Aath 
+http://140.238.229.42:3500/getm3u8/698/Aakaash_bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/24_Ghanta_TV.png" group-title="SONU IPTV News",24 Ghanta TV 
+http://140.238.229.42:3500/getm3u8/464/24_Ghanta_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_aath.png" group-title="SONU IPTV Entertainment",Sony aath 
+http://140.238.229.42:3500/getm3u8/697/Sony_aath/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sangeet_Bangla.png" group-title="SONU IPTV Music",Sangeet Bangla 
+http://140.238.229.42:3500/getm3u8/740/Sangeet_Bangla/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Bangla_Cinema.png" group-title="SONU IPTV Movies",Zee Bangla Cinema 
+http://140.238.229.42:3500/getm3u8/685/Zee_Bangla_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Bangla_SONU IPTV News.png" group-title="SONU IPTV News",SONU IPTV News18 Bangla SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/717/ETV_Bangla_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_Time_TV.png" group-title="SONU IPTV News",SONU IPTV News Time TV 
+http://140.238.229.42:3500/getm3u8/687/SONU IPTV News_Time_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sakshi_tv.png" group-title="SONU IPTV News",Sakshi tv 
+http://140.238.229.42:3500/getm3u8/632/Sakshi_tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Telugu.png" group-title="SONU IPTV Entertainment",Zee Telugu 
+http://140.238.229.42:3500/getm3u8/638/Zee_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Studio_One.png" group-title="SONU IPTV News",Studio One 
+http://140.238.229.42:3500/getm3u8/1274/Studio_One/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Telugu.png" group-title="SONU IPTV Entertainment",ETV Telugu 
+http://140.238.229.42:3500/getm3u8/629/ETV_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Andhra_pradesh.png" group-title="SONU IPTV News",ETV Andhra pradesh 
+http://140.238.229.42:3500/getm3u8/614/ETV_Andhra_pradesh/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jaya_TV_HD.png" group-title="SONU IPTV Entertainment",Jaya TV HD 
+http://140.238.229.42:3500/getm3u8/419/Jaya_TV_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV_5_SONU IPTV News.png" group-title="SONU IPTV News",TV 5 SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/668/TV_5_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV9_Telugu_SONU IPTV News.png" group-title="SONU IPTV News",TV9 Telugu SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/618/TV9_Telugu_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/NTV.png" group-title="SONU IPTV News",NTV 
+http://140.238.229.42:3500/getm3u8/646/NTV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABN_Andhra_Jyothi.png" group-title="SONU IPTV News",ABN Andhra Jyothi 
+http://140.238.229.42:3500/getm3u8/666/ABN_Andhra_Jyothi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/T_SONU IPTV News.png" group-title="SONU IPTV News",T SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/667/T_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Puthu_Yugam.png" group-title="SONU IPTV Entertainment",Puthu Yugam 
+http://140.238.229.42:3500/getm3u8/824/Puthu_Yugam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/V6_SONU IPTV News.png" group-title="SONU IPTV News",V6 SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/769/V6_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MK_TV.png" group-title="SONU IPTV Entertainment",MK TV 
+http://140.238.229.42:3500/getm3u8/847/MK_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Bhakti_TV.png" group-title="SONU IPTV Devotional",Bhakti TV 
+http://140.238.229.42:3500/getm3u8/776/Bhakti_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Subhavartha_TV.png" group-title="SONU IPTV Devotional",Subhavartha TV 
+http://140.238.229.42:3500/getm3u8/607/Subhavartha_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nireekshana_TV.png" group-title="SONU IPTV Devotional",Nireekshana TV 
+http://140.238.229.42:3500/getm3u8/1277/Nireekshana_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Telangana.png" group-title="SONU IPTV News",ETV Telangana 
+http://140.238.229.42:3500/getm3u8/630/ETV_Telangana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/HM_TV.png" group-title="SONU IPTV News",HM TV 
+http://140.238.229.42:3500/getm3u8/665/HM_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Cinema.png" group-title="SONU IPTV Movies",ETV Cinema 
+http://140.238.229.42:3500/getm3u8/252/ETV_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Plus.png" group-title="SONU IPTV Entertainment",ETV Plus 
+http://140.238.229.42:3500/getm3u8/692/ETV_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Life.png" group-title="SONU IPTV Infotainment",ETV Life 
+http://140.238.229.42:3500/getm3u8/570/ETV_Life/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Abhiruchi.png" group-title="SONU IPTV Lifestyle",ETV Abhiruchi 
+http://140.238.229.42:3500/getm3u8/565/ETV_Abhiruchi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Cinemalu.png" group-title="SONU IPTV Movies",Zee Cinemalu 
+http://140.238.229.42:3500/getm3u8/413/Zee_Cinemalu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV News_24x7.png" group-title="SONU IPTV News",Raj SONU IPTV News 24x7 
+http://140.238.229.42:3500/getm3u8/767/Raj_SONU IPTV News_24x7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CVR_English.png" group-title="SONU IPTV News",CVR English 
+http://140.238.229.42:3500/getm3u8/787/CVR_English/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CVR_SONU IPTV News.png" group-title="SONU IPTV News",CVR SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/784/CVR_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CVR_Health.png" group-title="SONU IPTV Infotainment",CVR Health 
+http://140.238.229.42:3500/getm3u8/774/CVR_Health/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CVR_OM_Spiritual.png" group-title="SONU IPTV Devotional",CVR OM Spiritual 
+http://140.238.229.42:3500/getm3u8/772/CVR_OM_Spiritual/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV News_Telugu.png" group-title="SONU IPTV News",Raj SONU IPTV News Telugu 
+http://140.238.229.42:3500/getm3u8/664/Raj_SONU IPTV News_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Vissa_TV.png" group-title="SONU IPTV Entertainment",Vissa TV 
+http://140.238.229.42:3500/getm3u8/734/Vissa_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/10_TV.png" group-title="SONU IPTV News",10 TV 
+http://140.238.229.42:3500/getm3u8/832/10_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aradhana_TV.png" group-title="SONU IPTV Devotional",Aradhana TV 
+http://140.238.229.42:3500/getm3u8/777/Aradhana_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Vanitha.png" group-title="SONU IPTV Infotainment",Vanitha 
+http://140.238.229.42:3500/getm3u8/775/Vanitha/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV Music_Telugu.png" group-title="SONU IPTV Music",Raj SONU IPTV Music Telugu 
+http://140.238.229.42:3500/getm3u8/737/Raj_SONU IPTV Music_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/I_SONU IPTV News.png" group-title="SONU IPTV News",I SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/790/I_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MK_SONU IPTV Music.png" group-title="SONU IPTV Music",MK SONU IPTV Music 
+http://140.238.229.42:3500/getm3u8/845/MK_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/History_18_Tamil.png" group-title="SONU IPTV Infotainment",History TV18 HD Tamil 
+http://140.238.229.42:3500/getm3u8/579/History_18_Tamil/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_BBC_Earth_HD_Tamil.png" group-title="SONU IPTV Infotainment",Sony BBC Earth HD Tamil 
+http://140.238.229.42:3500/getm3u8/853/Sony_BBC_Earth_HD_Tamil/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Saptagiri.png" group-title="SONU IPTV Entertainment",DD Saptagiri 
+http://140.238.229.42:3500/getm3u8/706/DD_Saptagiri/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Tamil.png" group-title="SONU IPTV Entertainment",Zee Tamil 
+http://140.238.229.42:3500/getm3u8/628/Zee_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kalaignar_TV.png" group-title="SONU IPTV Entertainment",Kalaignar TV 
+http://140.238.229.42:3500/getm3u8/1209/Kalaignar_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_TV.png" group-title="SONU IPTV Entertainment",Raj TV 
+http://140.238.229.42:3500/getm3u8/707/Raj_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Puthiya_Thalimurai.png" group-title="SONU IPTV News",Puthiya Thalimurai 
+http://140.238.229.42:3500/getm3u8/677/Puthiya_Thalimurai/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Vasanth_TV.png" group-title="SONU IPTV Entertainment",Vasanth TV 
+http://140.238.229.42:3500/getm3u8/727/Vasanth_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jaya_Max.png" group-title="SONU IPTV Music",Jaya Max 
+http://140.238.229.42:3500/getm3u8/420/Jaya_Max/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Polimer_TV.png" group-title="SONU IPTV Entertainment",Polimer TV 
+http://140.238.229.42:3500/getm3u8/705/Polimer_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Thanthi_TV.png" group-title="SONU IPTV News",Thanthi TV 
+http://140.238.229.42:3500/getm3u8/830/Thanthi_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Makkal_TV.png" group-title="SONU IPTV Entertainment",Makkal TV 
+http://140.238.229.42:3500/getm3u8/708/Makkal_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jaya_Plus.png" group-title="SONU IPTV News",Jaya Plus 
+http://140.238.229.42:3500/getm3u8/418/Jaya_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/J_SONU IPTV Movies.png" group-title="SONU IPTV Movies",J SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/417/J_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News7_Tamil.png" group-title="SONU IPTV News",SONU IPTV News7 Tamil 
+http://140.238.229.42:3500/getm3u8/673/SONU IPTV News7_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Polimer_SONU IPTV News.png" group-title="SONU IPTV News",Polimer SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/636/Polimer_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_18_Tamilnadu.png" group-title="SONU IPTV News",SONU IPTV News 18 Tamilnadu 
+http://140.238.229.42:3500/getm3u8/615/SONU IPTV News_18_Tamilnadu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kalaignar_Seithigal_.png" group-title="SONU IPTV News",Kalaignar Seithigal  
+http://140.238.229.42:3500/getm3u8/1210/Kalaignar_Seithigal_/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_Digital_Plus.png" group-title="SONU IPTV Movies",Raj Digital Plus 
+http://140.238.229.42:3500/getm3u8/683/Raj_Digital_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_Musix.png" group-title="SONU IPTV Music",Raj Musix 
+http://140.238.229.42:3500/getm3u8/748/Raj_Musix/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Tamil_HD.png" group-title="SONU IPTV Entertainment",Colors Tamil HD 
+http://140.238.229.42:3500/getm3u8/429/Colors_Tamil_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dighvijay_TV.png" group-title="SONU IPTV News",Dighvijay TV 
+http://140.238.229.42:3500/getm3u8/923/Dighvijay_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sathiyam.png" group-title="SONU IPTV News",Sathiyam TV 
+http://140.238.229.42:3500/getm3u8/671/Sathiyam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Captain_SONU IPTV News.png" group-title="SONU IPTV News",Captain SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/645/Captain_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Malai_Murasu.png" group-title="SONU IPTV News",Malai Murasu 
+http://140.238.229.42:3500/getm3u8/826/Malai_Murasu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Captain_tv.png" group-title="SONU IPTV Entertainment",Captain tv 
+http://140.238.229.42:3500/getm3u8/711/Captain_tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sahana_SONU IPTV Music.png" group-title="SONU IPTV Music",Sahana SONU IPTV Music 
+http://140.238.229.42:3500/getm3u8/749/Sahana_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nambikkai.png" group-title="SONU IPTV Devotional",Nambikkai 
+http://140.238.229.42:3500/getm3u8/603/Nambikkai/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Travel_XP_Tamil.png" group-title="SONU IPTV Lifestyle",Travel XP Tamil 
+http://140.238.229.42:3500/getm3u8/814/Travel_XP_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Vendhar_TV.png" group-title="SONU IPTV Entertainment",Vendhar TV 
+http://140.238.229.42:3500/getm3u8/857/Vendhar_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD5_Podhigai.png" group-title="SONU IPTV Entertainment",DD5 Podhigai 
+http://140.238.229.42:3500/getm3u8/726/DD5_Podhigai/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Kannada_HD.png" group-title="SONU IPTV Entertainment",Colors Kannada HD 
+http://140.238.229.42:3500/getm3u8/757/Colors_Kannada_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV9_Karnataka.png" group-title="SONU IPTV News",TV9 Karnataka 
+http://140.238.229.42:3500/getm3u8/619/TV9_Karnataka/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Kannada.png" group-title="SONU IPTV Entertainment",Zee Kannada 
+http://140.238.229.42:3500/getm3u8/689/Zee_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kasturi.png" group-title="SONU IPTV Entertainment",Kasturi 
+http://140.238.229.42:3500/getm3u8/730/Kasturi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Public_TV.png" group-title="SONU IPTV News",Public TV 
+http://140.238.229.42:3500/getm3u8/778/Public_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Kannada_SONU IPTV News.png" group-title="SONU IPTV News",SONU IPTV News18 Kannada SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/653/ETV_Kannada_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Super.png" group-title="SONU IPTV Entertainment",Colors Super 
+http://140.238.229.42:3500/getm3u8/785/Colors_Super/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV Music_Kannada.png" group-title="SONU IPTV Music",Raj SONU IPTV Music Kannada 
+http://140.238.229.42:3500/getm3u8/743/Raj_SONU IPTV Music_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sri_Sankara.png" group-title="SONU IPTV Devotional",Sri Sankara 
+http://140.238.229.42:3500/getm3u8/829/Sri_Sankara/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Public_SONU IPTV Music.png" group-title="SONU IPTV Music",Public SONU IPTV Music 
+http://140.238.229.42:3500/getm3u8/773/Public_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV News_Kannada.png" group-title="SONU IPTV News",Raj SONU IPTV News Kannada 
+http://140.238.229.42:3500/getm3u8/651/Raj_SONU IPTV News_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Maha_SONU IPTV News.png" group-title="SONU IPTV News",Maha SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/800/Maha_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/History_18_Telugu.png" group-title="SONU IPTV Infotainment",History TV18 HD Telugu 
+http://140.238.229.42:3500/getm3u8/577/History_18_Telugu/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_BBC_Earth_HD_Telugu.png" group-title="SONU IPTV Infotainment",Sony BBC Earth HD Telugu 
+http://140.238.229.42:3500/getm3u8/854/Sony_BBC_Earth_HD_Telugu/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Channel_Telugu.png" group-title="SONU IPTV Infotainment",Discovery Channel Telugu 
+http://140.238.229.42:3500/getm3u8/576/Discovery_Channel_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sri_Venkateshwar_Bhakti.png" group-title="SONU IPTV Devotional",Sri Venkateshwar Bhakti 
+http://140.238.229.42:3500/getm3u8/598/Sri_Venkateshwar_Bhakti/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Divya_Vani.png" group-title="SONU IPTV Devotional",Divya Vani 
+http://140.238.229.42:3500/getm3u8/934/Divya_Vani/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD9_chandana_kannada.png" group-title="SONU IPTV Entertainment",DD9 chandana (kannada) 
+http://140.238.229.42:3500/getm3u8/713/DD9_chandana_kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Gujarati.png" group-title="SONU IPTV Entertainment",Colors Gujarati 
+http://140.238.229.42:3500/getm3u8/196/Colors_Gujarati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Tv_9_Gujarat.png" group-title="SONU IPTV News",Tv 9 Gujarat 
+http://140.238.229.42:3500/getm3u8/616/Tv_9_Gujarat/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/GS_TV.png" group-title="SONU IPTV News",GS TV 
+http://140.238.229.42:3500/getm3u8/643/GS_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sandesh_SONU IPTV News.png" group-title="SONU IPTV News",Sandesh SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/782/Sandesh_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CNBC_Bazaar_MNO.png" group-title="SONU IPTV Business",CNBC Bazaar (MNO) 
+http://140.238.229.42:3500/getm3u8/490/CNBC_Bazaar_MNO/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_SONU IPTV News_Gujarati.png" group-title="SONU IPTV News",SONU IPTV News18 Gujarati 
+http://140.238.229.42:3500/getm3u8/620/ETV_SONU IPTV News_Gujarati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_Asmita.png" group-title="SONU IPTV News",ABP Asmita 
+http://140.238.229.42:3500/getm3u8/641/ABP_Asmita/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/VTV_Gujarati.png" group-title="SONU IPTV News",VTV Gujarati 
+http://140.238.229.42:3500/getm3u8/642/VTV_Gujarati/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_24_Kalak.png" group-title="SONU IPTV News",Zee 24 Kalak 
+http://140.238.229.42:3500/getm3u8/929/Zee_24_Kalak/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Girnar.png" group-title="SONU IPTV Entertainment",DD Girnar 
+http://140.238.229.42:3500/getm3u8/714/DD_Girnar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Colors_Oriya.png" group-title="SONU IPTV Entertainment",Colors Oriya 
+http://140.238.229.42:3500/getm3u8/198/Colors_Oriya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Tarang_TV.png" group-title="SONU IPTV Entertainment",Tarang TV 
+http://140.238.229.42:3500/getm3u8/703/Tarang_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Tarang_SONU IPTV Music.png" group-title="SONU IPTV Music",Tarang SONU IPTV Music 
+http://140.238.229.42:3500/getm3u8/751/Tarang_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/OTV_Odisha_TV.png" group-title="SONU IPTV Entertainment",OTV (Odisha TV) 
+http://140.238.229.42:3500/getm3u8/704/OTV_Odisha_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sarthak_TV.png" group-title="SONU IPTV Entertainment",Zee Odisha 
+http://140.238.229.42:3500/getm3u8/722/Sarthak_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Prathana_TV.png" group-title="SONU IPTV Devotional",Prathana TV 
+http://140.238.229.42:3500/getm3u8/595/Prathana_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Kalinga.png" group-title="SONU IPTV News",Zee Kalinga 
+http://140.238.229.42:3500/getm3u8/724/Zee_Kalinga/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kanak_TV.png" group-title="SONU IPTV News",Kanak SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/718/Kanak_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kalinga_TV.png" group-title="SONU IPTV News",Kalinga TV 
+http://140.238.229.42:3500/getm3u8/781/Kalinga_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Prameya_SONU IPTV News_7.png" group-title="SONU IPTV News",Prameya SONU IPTV News 7 
+http://140.238.229.42:3500/getm3u8/779/Prameya_SONU IPTV News_7/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_SONU IPTV News_Oriya.png" group-title="SONU IPTV News",SONU IPTV News18 Oriya 
+http://140.238.229.42:3500/getm3u8/696/ETV_SONU IPTV News_Oriya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Alankar_TV.png" group-title="SONU IPTV Movies",Alankar TV 
+http://140.238.229.42:3500/getm3u8/686/Alankar_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/MBC.png" group-title="SONU IPTV News",MBC 
+http://140.238.229.42:3500/getm3u8/631/MBC/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Naxatra_SONU IPTV News.png" group-title="SONU IPTV News",Naxatra SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/799/Naxatra_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Oriya.png" group-title="SONU IPTV Entertainment",DD Oriya 
+http://140.238.229.42:3500/getm3u8/702/DD_Oriya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Asianet_SD.png" group-title="SONU IPTV Entertainment",Asianet 
+http://140.238.229.42:3500/getm3u8/1118/Asianet_SD/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Amrita_TV.png" group-title="SONU IPTV Entertainment",Amrita TV 
+http://140.238.229.42:3500/getm3u8/723/Amrita_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mazavali_Manorama_HD.png" group-title="SONU IPTV Entertainment",Mazavali Manorama HD 
+http://140.238.229.42:3500/getm3u8/844/Mazavali_Manorama_HD/yes
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mazhavil_Manorama.png" group-title="SONU IPTV Entertainment",Mazhavil Manorama 
+http://140.238.229.42:3500/getm3u8/648/Mazhavil_Manorama/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kairali_TV.png" group-title="SONU IPTV Entertainment",Kairali TV 
+http://140.238.229.42:3500/getm3u8/710/Kairali_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/mh1_SONU IPTV Music.png" group-title="SONU IPTV Music",mh1 (SONU IPTV Music) 
+http://140.238.229.42:3500/getm3u8/742/mh1_SONU IPTV Music/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kairali_People_TV.png" group-title="SONU IPTV News",Kairali SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/725/Kairali_People_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manorama_SONU IPTV News.png" group-title="SONU IPTV News",Manorama SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/662/Manorama_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Mathrubhumi_SONU IPTV News.png" group-title="SONU IPTV News",Mathrubhumi SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/780/Mathrubhumi_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jaihind_tv.png" group-title="SONU IPTV News",Jaihind tv 
+http://140.238.229.42:3500/getm3u8/465/Jaihind_tv/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jeevan_TV.png" group-title="SONU IPTV News",Jeevan TV 
+http://140.238.229.42:3500/getm3u8/842/Jeevan_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kappa_TV.png" group-title="SONU IPTV Music",Kappa TV 
+http://140.238.229.42:3500/getm3u8/786/Kappa_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Flower_TV.png" group-title="SONU IPTV Entertainment",Flower TV 
+http://140.238.229.42:3500/getm3u8/634/Flower_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/GoodSONU IPTV News_Channel.png" group-title="SONU IPTV News",GoodSONU IPTV News Channel 
+http://140.238.229.42:3500/getm3u8/907/GoodSONU IPTV News_Channel/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Janam_TV.png" group-title="SONU IPTV News",Janam TV 
+http://140.238.229.42:3500/getm3u8/810/Janam_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Shalom.png" group-title="SONU IPTV Devotional",Shalom 
+http://140.238.229.42:3500/getm3u8/606/Shalom/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kaumudy_TV.png" group-title="SONU IPTV Lifestyle",Kaumudy TV 
+http://140.238.229.42:3500/getm3u8/563/Kaumudy_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kairali_WE_TV.png" group-title="SONU IPTV Entertainment",Kairali WE TV 
+http://140.238.229.42:3500/getm3u8/731/Kairali_WE_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_18_Kerala.png" group-title="SONU IPTV News",SONU IPTV News 18 Kerala 
+http://140.238.229.42:3500/getm3u8/965/SONU IPTV News_18_Kerala/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV Music_Malayalam.png" group-title="SONU IPTV Music",Raj SONU IPTV Music Malayalam 
+http://140.238.229.42:3500/getm3u8/739/Raj_SONU IPTV Music_Malayalam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Raj_SONU IPTV News_Malayalam.png" group-title="SONU IPTV News",Raj SONU IPTV News Malayalam 
+http://140.238.229.42:3500/getm3u8/650/Raj_SONU IPTV News_Malayalam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dillagi_TV.png" group-title="SONU IPTV Entertainment",Dillagi TV 
+http://140.238.229.42:3500/getm3u8/534/Dillagi_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Dhamaal_TV.png" group-title="SONU IPTV Entertainment",Dhamaal TV 
+http://140.238.229.42:3500/getm3u8/535/Dhamaal_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Andy_Haryana.png" group-title="SONU IPTV Entertainment",Andy Haryana 
+http://140.238.229.42:3500/getm3u8/1076/Andy_Haryana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manoranjan_Grand.png" group-title="SONU IPTV Entertainment",Manoranjan Grand 
+http://140.238.229.42:3500/getm3u8/1279/Manoranjan_Grand/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Purvaiya.png" group-title="SONU IPTV News",Zee Purvaiya 
+http://140.238.229.42:3500/getm3u8/661/Zee_Purvaiya/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Zee_Punjabi_HP_Haryana.png" group-title="SONU IPTV News",Zee Punjabi HP Haryana 
+http://140.238.229.42:3500/getm3u8/654/Zee_Punjabi_HP_Haryana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/PTC_SONU IPTV News.png" group-title="SONU IPTV News",PTC SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1170/PTC_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ETV_Haryana_and_HP_SONU IPTV News.png" group-title="SONU IPTV News",SONU IPTV News18 Haryana and HP SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/655/ETV_Haryana_and_HP_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/PTC_Punjabi.png" group-title="SONU IPTV Entertainment",PTC Punjabi 
+http://140.238.229.42:3500/getm3u8/1171/PTC_Punjabi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/PTC_Chak_De.png" group-title="SONU IPTV Music",PTC Chak De 
+http://140.238.229.42:3500/getm3u8/1172/PTC_Chak_De/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/9X_Tashan.png" group-title="SONU IPTV Music",9X Tashan 
+http://140.238.229.42:3500/getm3u8/732/9X_Tashan/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Chardikla_Time_TV.png" group-title="SONU IPTV News",Chardikla Time TV 
+http://140.238.229.42:3500/getm3u8/517/Chardikla_Time_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Pitaara.png" group-title="SONU IPTV Movies",Pitaara 
+http://140.238.229.42:3500/getm3u8/946/Pitaara/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Manoranjan_SONU IPTV Movies.png" group-title="SONU IPTV Movies",Manoranjan SONU IPTV Movies 
+http://140.238.229.42:3500/getm3u8/1281/Manoranjan_SONU IPTV Movies/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Khusboo_TV.png" group-title="SONU IPTV Movies",Khushboo TV 
+http://140.238.229.42:3500/getm3u8/1282/Khusboo_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_Punjabi.png" group-title="SONU IPTV Entertainment",DD Punjabi 
+http://140.238.229.42:3500/getm3u8/715/DD_Punjabi/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DY_365.png" group-title="SONU IPTV News",DY 365 
+http://140.238.229.42:3500/getm3u8/633/DY_365/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Nepal_one.png" group-title="SONU IPTV Entertainment",Nepal one 
+http://140.238.229.42:3500/getm3u8/719/Nepal_one/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Rang.png" group-title="SONU IPTV Entertainment",Rang 
+http://140.238.229.42:3500/getm3u8/623/Rang/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Jonack.png" group-title="SONU IPTV Entertainment",Jonack 
+http://140.238.229.42:3500/getm3u8/765/Jonack/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SONU IPTV News_18_Assam.png" group-title="SONU IPTV News",SONU IPTV News 18 Assam 
+http://140.238.229.42:3500/getm3u8/627/SONU IPTV News_18_Assam/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ramdhenu.png" group-title="SONU IPTV Music",Ramdhenu 
+http://140.238.229.42:3500/getm3u8/639/Ramdhenu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Assam_Talks.png" group-title="SONU IPTV News",Assam Talks 
+http://140.238.229.42:3500/getm3u8/675/Assam_Talks/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Rengoni.png" group-title="SONU IPTV Entertainment",Rengoni 
+http://140.238.229.42:3500/getm3u8/635/Rengoni/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/North_East_Live.png" group-title="SONU IPTV News",North East Live 
+http://140.238.229.42:3500/getm3u8/637/North_East_Live/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TWENTY_FOUR_SONU IPTV News.png" group-title="SONU IPTV News",Twenty Four SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1250/TWENTY_FOUR_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TV9_BHARATVARSH.png" group-title="SONU IPTV News",TV9 Bharatvarsh 
+http://140.238.229.42:3500/getm3u8/1251/TV9_BHARATVARSH/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/TEHZEEB_TV.png" group-title="SONU IPTV Infotainment",Tehzeeb TV 
+http://140.238.229.42:3500/getm3u8/1252/TEHZEEB_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kolkata_LIVE.png" group-title="SONU IPTV News",Kolkata Live 
+http://140.238.229.42:3500/getm3u8/1253/Kolkata_LIVE/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aastha_Telugu.png" group-title="SONU IPTV Devotional",Aastha Telugu 
+http://140.238.229.42:3500/getm3u8/1254/Aastha_Telugu/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aastha_Tamil.png" group-title="SONU IPTV Devotional",Aastha Tamil 
+http://140.238.229.42:3500/getm3u8/1255/Aastha_Tamil/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Aastha_Kannada.png" group-title="SONU IPTV Devotional",Aastha Kannada 
+http://140.238.229.42:3500/getm3u8/1256/Aastha_Kannada/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Surya_Samachar.png" group-title="SONU IPTV News",Surya Samachar 
+http://140.238.229.42:3500/getm3u8/1257/Surya_Samachar/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Surya_Cinema.png" group-title="SONU IPTV Movies",Surya Cinema 
+http://140.238.229.42:3500/getm3u8/1258/Surya_Cinema/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Surya_Bhakti.png" group-title="SONU IPTV Devotional",Surya Bhakti 
+http://140.238.229.42:3500/getm3u8/1259/Surya_Bhakti/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/CTVN_AKD_Plus.png" group-title="SONU IPTV News",Ctvn Akd Plus 
+http://140.238.229.42:3500/getm3u8/1260/CTVN_AKD_Plus/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Calcutta_SONU IPTV News.png" group-title="SONU IPTV News",Calcutta SONU IPTV News 
+http://140.238.229.42:3500/getm3u8/1261/Calcutta_SONU IPTV News/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Total_Tv_Haryana.png" group-title="SONU IPTV News",Total Tv Haryana 
+http://140.238.229.42:3500/getm3u8/1263/Total_Tv_Haryana/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Kolkata_TV.png" group-title="SONU IPTV News",Kolkata TV 
+http://140.238.229.42:3500/getm3u8/1264/Kolkata_TV/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/SET_MAX.png" group-title="SONU IPTV Movies",Sony Max SD 
+http://140.238.229.42:3500/getm3u8/289/SET_MAX/no
+#EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_BBC_Earth_SD.png" group-title="SONU IPTV Infotainment",Sony BBC Earth SD 
+http://140.238.229.42:3500/getm3u8/823/Sony_BBC_Earth_SD/no
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY SET HD
+https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY SAB HD
+https://bit.ly/3fBsABhd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY PAL
+https://bit.ly/30a3wsONyPal
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY MARATHI
+https://bit.ly/32JsoNYMaraTHi
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY AATH
+https://bit.ly/2ORsONyaAaTh
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY YAY HIN
+https://bit.ly/2WmsoNYYaY
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY MAX 2
+https://bit.ly/30dsoNYmaX2
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY WAH
+https://bit.ly/3j7sOnywAh
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY PIX HD
+https://bit.ly/32sOnypIXhd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 1
+https://bit.ly/2ZtEn1Sd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 2
+https://bit.ly/30teN2sd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY TEN 3
+https://bit.ly/2B9teN3sd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY SIX
+https://bit.ly/3j8sIx7sd
+#EXTINF:-1 group-title="SONU IPTV sony Liv",SONY SIX HD
+https://bit.ly/3h6sIXHd
